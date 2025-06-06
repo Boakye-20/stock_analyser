@@ -153,7 +153,7 @@ stock-analyzer-dashboard/
 ├── README.md            # Documentation
 ├── requirements.txt     # Python dependencies
 ├── .gitignore          # Git ignore file
-└── examples/           # Sample outputs (optional)
+
 ```
 
 ## 🤝 Contributing
