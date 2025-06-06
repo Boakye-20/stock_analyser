@@ -27,6 +27,10 @@ A professional stock analysis tool that generates comprehensive technical analys
 ## 📊 Sample Output
 
 The dashboard generates a comprehensive multi-panel analysis:
+
+![AAPL Analysis Dashboard](examples/AAPL_dashboard.png)
+
+### Dashboard Components:
 - Price action with moving averages
 - Bollinger Bands analysis
 - Volume trends with color coding
@@ -34,6 +38,12 @@ The dashboard generates a comprehensive multi-panel analysis:
 - MACD trend analysis
 - Returns distribution histogram
 - Key metrics summary table
+
+### More Examples:
+| Stock | Analysis |
+|-------|----------|
+| Microsoft | ![MSFT Dashboard](examples/MSFT_dashboard.png) |
+| Tesla | ![TSLA Dashboard](examples/TSLA_dashboard.png) |
 
 ## 🛠️ Development Setup
 
