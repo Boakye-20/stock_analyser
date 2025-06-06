@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.png
+*.jpg
+
+# Environment
+.env
+venv/
+
+# IDE
+.vscode/
